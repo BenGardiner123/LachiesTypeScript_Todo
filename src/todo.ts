@@ -8,7 +8,6 @@ export class Todo {
 
 }
 
-
 export class TodoElement {
     todo: Todo;
     element: HTMLElement | null = null;
